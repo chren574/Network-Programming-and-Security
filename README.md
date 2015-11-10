@@ -1,2 +1,4 @@
-# TNM031
-Labs
+# Network Programming and Security
+
+Course: TNM031
+Content: Labs
